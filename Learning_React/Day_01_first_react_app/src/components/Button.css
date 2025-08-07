@@ -1,0 +1,11 @@
+.btn-class{
+    padding: 10px 10px;
+    border-radius: 5px;
+    background-color: #007bff;
+    outline: none;
+    border: none;
+    font-weight: 400;
+    font-size: 17px;
+    color: aliceblue;
+    cursor: pointer;
+}
